@@ -4,7 +4,7 @@
 
 - Landing page only uses basic HTML and CSS
 
-- Template: https://www.w3schools.com/w3css/tryw3css_templates_architect.html
+- Template: https://www.w3schools.com/w3css/tryw3css_templates_architect.htm
 
 ## Image about landing page
 
